@@ -1,2 +1,8 @@
 # project001
-ImageView, TextView, EditText, Button, OnClickListener (change image - chage textview)
+Android Studio Project (java)
+
+Using UI Elements: ImageView, TextView, EditText, Button, 
+Interfaces: OnClickListener
+Others: Toast Messages
+
+We preview how to change image and the text using onClickListener.
